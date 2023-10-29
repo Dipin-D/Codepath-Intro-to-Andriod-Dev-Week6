@@ -22,7 +22,7 @@ The following REQUIRED features are completed:
 
 Here's a video / GIF that demos all of the app's implemented features:
 
-<img src='![week7](https://github.com/Dipin-D/Codepath-Intro-to-Andriod-Dev-Week6/assets/102004858/8d6067a2-46c7-4b20-8770-ffb48342e55e'/>
+<img src='https://github.com/Dipin-D/Codepath-Intro-to-Andriod-Dev-Week6/assets/102004858/8d6067a2-46c7-4b20-8770-ffb48342e55e'/>
 
 
 ## Notes
