@@ -37,9 +37,9 @@ class MainActivity : AppCompatActivity() {
 
     private fun initRecyclerView() {
         adapter = RecyclerViewAdapter(emptyList())
+        recyclerView.adapter = adapter
         recyclerView.layoutManager = LinearLayoutManager(this)
         val decoration = DividerItemDecoration(applicationContext, DividerItemDecoration.VERTICAL)
         recyclerView.addItemDecoration(decoration)
-        recyclerView.adapter = adapter
     }
 }
